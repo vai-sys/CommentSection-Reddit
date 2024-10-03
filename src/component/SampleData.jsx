@@ -1,4 +1,4 @@
-export const sampleData = {
+export const SampleData = {
     post: {
       author: "Massive_Mission_6386",
       content: "I love my dog, but I'm not bringing that big idiot everywhere with me",
@@ -7,7 +7,7 @@ export const sampleData = {
         {
           id: 1,
           author: "Key_Warthog_1550",
-          content: "Yeah my dog is wonderful and extremely friendly but his manners go out the window when he sees children so he stays home!",
+          content: "Yeah, my dog is wonderful and extremely friendly but his manners go out the window when he sees children, so he stays home!",
           timeAgo: "9h ago",
           votes: 2,
           replies: [
